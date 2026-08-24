@@ -55,7 +55,7 @@ const Facility = () => {
   ];
 
   return (
-    <section className="py-20 bg-gray-50">
+    <section className="py-20 bg-[#d0defd5a] rounded-2xl">
       <div className="max-w-7xl mx-auto px-6 text-center">
         <h2 className="text-4xl font-bold text-blue-600 mb-12">Our Facilities</h2>
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">

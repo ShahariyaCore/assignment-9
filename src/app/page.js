@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Banner from "../components/Banner";
 import Facility from "../components/Facility";
+import HealthyAdvice from "../components/HealthyAdvice";
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
           <main>
             <Banner />
             <Facility />
+            <HealthyAdvice />
           </main>
      
     </div>
