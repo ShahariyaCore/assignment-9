@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Banner from "../components/Banner";
 import Facility from "../components/Facility";
+import Achievements from "../components/Achievements";
 import HealthyAdvice from "../components/HealthyAdvice";
 
 export default function Home() {
@@ -10,6 +11,7 @@ export default function Home() {
           <main>
             <Banner />
             <Facility />
+            <Achievements />
             <HealthyAdvice />
           </main>
      
