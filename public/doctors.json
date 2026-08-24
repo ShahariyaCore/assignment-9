@@ -1,0 +1,110 @@
+[
+  {
+    "id": "d1",
+    "name": "Dr. Ayesha Rahman",
+    "specialty": "Cardiologist",
+    "image": "https://i.ibb.co/doctor-demo.jpg",
+    "experience": "10 years",
+    "availability": ["09:00 AM - 12:00 PM", "04:00 PM - 07:00 PM"],
+    "description": "Highly experienced cardiologist specializing in heart diseases, preventive care, and patient-centered treatment.",
+    "hospital": "Labaid Cardiac Hospital",
+    "location": "Dhanmondi, Dhaka",
+    "fee": 800
+  },
+  {
+    "id": "d2",
+    "name": "Dr. Kamal Hossain",
+    "specialty": "Dermatologist",
+    "image": "https://i.ibb.co/doctor2.jpg",
+    "experience": "8 years",
+    "availability": ["10:00 AM - 01:00 PM", "05:00 PM - 08:00 PM"],
+    "description": "Specialist in skin care, acne treatment, and cosmetic dermatology.",
+    "hospital": "Square Hospital",
+    "location": "Panthapath, Dhaka",
+    "fee": 700
+  },
+  {
+    "id": "d3",
+    "name": "Dr. Nusrat Jahan",
+    "specialty": "Pediatrician",
+    "image": "https://i.ibb.co/doctor3.jpg",
+    "experience": "12 years",
+    "availability": ["09:30 AM - 12:30 PM", "03:00 PM - 06:00 PM"],
+    "description": "Dedicated to child health, vaccinations, and preventive care.",
+    "hospital": "United Hospital",
+    "location": "Gulshan, Dhaka",
+    "fee": 900
+  },
+  {
+    "id": "d4",
+    "name": "Dr. Imran Chowdhury",
+    "specialty": "Orthopedic Surgeon",
+    "image": "https://i.ibb.co/doctor4.jpg",
+    "experience": "15 years",
+    "availability": ["11:00 AM - 02:00 PM", "06:00 PM - 09:00 PM"],
+    "description": "Expert in bone, joint, and spine surgeries.",
+    "hospital": "Apollo Hospitals Dhaka",
+    "location": "Bashundhara, Dhaka",
+    "fee": 1200
+  },
+  {
+    "id": "d5",
+    "name": "Dr. Farhana Akter",
+    "specialty": "Gynecologist",
+    "image": "https://i.ibb.co/doctor5.jpg",
+    "experience": "9 years",
+    "availability": ["08:00 AM - 11:00 AM", "02:00 PM - 05:00 PM"],
+    "description": "Provides women’s health care, maternity, and reproductive health services.",
+    "hospital": "Ibn Sina Hospital",
+    "location": "Dhanmondi, Dhaka",
+    "fee": 850
+  },
+  {
+    "id": "d6",
+    "name": "Dr. Mahmudul Hasan",
+    "specialty": "Neurologist",
+    "image": "https://i.ibb.co/doctor6.jpg",
+    "experience": "11 years",
+    "availability": ["09:00 AM - 01:00 PM", "05:00 PM - 08:00 PM"],
+    "description": "Specialist in brain and nervous system disorders.",
+    "hospital": "National Institute of Neurosciences",
+    "location": "Agargaon, Dhaka",
+    "fee": 1000
+  },
+  {
+    "id": "d7",
+    "name": "Dr. Shirin Alam",
+    "specialty": "Psychiatrist",
+    "image": "https://i.ibb.co/doctor7.jpg",
+    "experience": "7 years",
+    "availability": ["10:00 AM - 01:00 PM", "04:00 PM - 07:00 PM"],
+    "description": "Helps patients with mental health, counseling, and therapy.",
+    "hospital": "Bangabandhu Sheikh Mujib Medical University",
+    "location": "Shahbagh, Dhaka",
+    "fee": 750
+  },
+  {
+    "id": "d8",
+    "name": "Dr. Tanvir Ahmed",
+    "specialty": "General Physician",
+    "image": "https://i.ibb.co/doctor8.jpg",
+    "experience": "6 years",
+    "availability": ["08:00 AM - 12:00 PM", "03:00 PM - 06:00 PM"],
+    "description": "Provides primary care and general medical advice.",
+    "hospital": "Popular Diagnostic Center",
+    "location": "Shyamoli, Dhaka",
+    "fee": 500
+  },
+  {
+    "id": "d9",
+    "name": "Dr. Rafiq Ullah",
+    "specialty": "ENT Specialist",
+    "image": "https://i.ibb.co/doctor9.jpg",
+    "experience": "13 years",
+    "availability": ["09:00 AM - 12:00 PM", "05:00 PM - 08:00 PM"],
+    "description": "Expert in ear, nose, and throat treatments.",
+    "hospital": "Dhaka Medical College Hospital",
+    "location": "Dhaka University Area",
+    "fee": 650
+  }
+]
