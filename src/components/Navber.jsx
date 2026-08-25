@@ -6,7 +6,7 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 const links = [
   { href: "/", label: "Home" },
   { href: "/all-appointments", label: "All Appointments" },
-  { href: "/pricing", label: "Dashboard" },
+  { href: "/dashboard", label: "Dashboard" },
   { href: "/profile", label: "Profile" },
 ];
 

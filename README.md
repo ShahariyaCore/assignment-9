@@ -18,6 +18,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
+## Appointment and authentication setup
+
+Copy `.env.example` to `.env.local` and fill in the MongoDB connection string and Auth.js secret. Google login also requires a Google OAuth client configured with `http://localhost:3000/api/auth/callback/google` as an authorized redirect URI.
+
+The app stores users in the `medical.users` collection and appointments in the `medical.appointments` collection. Users must be logged in before submitting an appointment. Email verification and password reset are intentionally not included.
+
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
